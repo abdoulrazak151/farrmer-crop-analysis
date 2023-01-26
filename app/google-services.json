@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689276073256",
+    "project_id": "conseil-agricole",
+    "storage_bucket": "conseil-agricole.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689276073256:android:2b4f407f63819696300c1d",
+        "android_client_info": {
+          "package_name": "com.soft.conseilagricole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689276073256-uu3i5g9094i7nf38tkv5fad0trc6i2au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soft.conseilagricole",
+            "certificate_hash": "c80bb7e27b6312d24f1e84b1cdd69cbdbc717af5"
+          }
+        },
+        {
+          "client_id": "689276073256-grremgdr4u1blih50i8vi42g9ichb7t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1jjH38wC_XeXQkPB2ndbLpIpkqOuB15o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689276073256-grremgdr4u1blih50i8vi42g9ichb7t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

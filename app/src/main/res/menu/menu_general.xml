@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_accueil_item"
+        android:title="Accueil"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item
+        android:id="@+id/menu_outil_item"
+        android:title="Outils"
+        android:icon="@drawable/ic_baseline_apps_24"/>
+    <item
+        android:id="@+id/menu_parametre_item"
+        android:title="Paramètre"
+        android:icon="@drawable/ic_baseline_settings_24"
+        />
+</menu>

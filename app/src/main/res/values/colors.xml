@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#125F36</color>
+
+
+
+
+
+    <color name="homeBackground">#C3CED3</color>
+    <color name="blue_marine">#07123A</color>
+    <color name="profile_head_background">#eacdbf</color>
+    <color name="success">#38AC11</color>
+    <color name="red">#F10F0F</color>
+    <color name="blue">#327BB6</color>
+    <color name="orange_rouge">#D6CAB8</color>
+    <color name="blue_blanc">#C9E8E6</color>
+    <color name="bleu_ciel">#5A78A6</color>
+    <color name="card_bac">#AEC5AF</color>
+    <color name="grise">#DEE2F8</color>
+    <color name="color1">#071C92</color>
+    <color name="color2">#1E980E</color>
+    <color name="color3">#BF081D</color>
+    <color name="color4">#F3C726</color>
+    <color name="color5">#AE3CC1</color>
+    <color name="color6">#545459</color>
+    <color name="orange">#EBE9E7</color>
+    <color name="color7">#B58092</color>
+    <color name="color8">#436458</color>
+    <color name="green1">#0BCC86</color>
+    <color name="orangered">#EA961A</color>
+    <color name="i_orange">#fD1A00</color>
+    <color name="i_blue">#00005c</color>
+    <color name="i_vert">#2E5438</color>
+    <color name="erreur">#E36E6E</color>
+    <color name="i_back_etat">#D8CFC2</color>
+    <color name="color_white_80">#CCC4CBCC</color>
+    <color name="i_white_etat">#E4E3E0</color>
+    <color name="other_1">#EDE9C8</color>
+    <color name="other_2">#E8E8E5</color>
+    <color name="other_3">#F6F6EE</color>
+
+</resources>
